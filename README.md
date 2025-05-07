@@ -1,6 +1,7 @@
 # Merhaba, ben Mete Muhammet Turan
 
 Yalnızca yazılım geliştirmeden ziyade işin yönetimsel süreçlerinde de aktif rol oynamayı seviyorum bu sebeple anlık olarak kendimi product management konusunda geliştiriyorum.
+
 Kendi start-up projem olan **Yoldayım**'ın fikir aşamasından ürünleşme sürecine kadar olan tüm adımlarını bir product manager gibi yönetiyor ve deneyim kazanıyorum. 
 
 ---

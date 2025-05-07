@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Merhaba, ben Mete Muhammet Turan
 
-<!--
-**metemuhammetturan/metemuhammetturan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Kendi start-up projemin fikir aşamasından ürünleşme sürecine kadar olan tüm adımlarını bir product manager gibi yönetiyor ve kendimi yazılım alanının haricinde bu alanda geliştiriyorum. 
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔍 Yetkinliklerim
+
+* 🚀 **Backend Development:** Node.js, Express
+* 🗄️ **Veritabanı Yönetimi:** MongoDB, PostgreSQL, Redis
+* 🔄 **Gerçek Zamanlı Veri Yönetimi:** WebSocket, Redis Pub/Sub
+* 🔐 **Kimlik Doğrulama & Yetkilendirme:** JWT, RBAC
+* ⚙️ **API Geliştirme:** RESTful API, Swagger/OpenAPI 3.0
+* ☁️ **Bulut Servisleri:** Render.com üzerinde canlı sunucu yönetimi
+* 🛠️ **Versiyon Kontrol:** Git & GitHub
+* 📌 **Proje Yönetimi:** Jira ile sprint planlaması
+
+---
+
+## 📫 İletişim
+
+metemhtturan@gmail.com

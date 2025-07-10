@@ -4,6 +4,8 @@ Yalnızca yazılım geliştirmeden ziyade işin yönetimsel süreçlerinde de ak
 
 Kendi start-up projem olan **Yoldayım**'ın fikir aşamasından ürünleşme sürecine kadar olan tüm adımlarını bir product manager gibi yönetiyor ve deneyim kazanıyorum. 
 
+Projemin kodları GitHub repository'lerimde mevcut fakat açık kaynak kodlu değil. İncelemek istediğiniz takdirde benimle iletişime geçebilirsiniz.
+
 ---
 
 ## 🔍 Yetkinliklerim

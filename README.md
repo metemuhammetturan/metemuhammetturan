@@ -10,12 +10,12 @@ Projemin kodları GitHub repository'lerimde mevcut fakat açık kaynak kodlu de�
 
 ## 🔍 Yetkinliklerim
 
-*  **Backend Development:** Node.js, Express
-*  **Veritabanı Yönetimi:** MongoDB, PostgreSQL, Redis
-*  **Gerçek Zamanlı Veri Yönetimi:** WebSocket, Redis Pub/Sub
-*  **Kimlik Doğrulama & Yetkilendirme:** JWT, RBAC
+*  **Backend Development:** JavaScript, Node.js, Express
+*  **Veritabanı Yönetimi:** MongoDB, PostgreSQL, 
+*  **Gerçek Zamanlı Veri Yönetimi:** BullMQ, Redis
+*  **Kimlik Doğrulama & Yetkilendirme:** Auth, JWT, RBAC
 *  **API Geliştirme:** RESTful API, Swagger/OpenAPI 3.0
-*  **Bulut Servisleri:** Render.com üzerinde canlı sunucu yönetimi
+*  **Bulut Servisleri:** DigitalOcean, Render
 *  **Versiyon Kontrol:** Git & GitHub
 *  **Proje Yönetimi:** Jira ile sprint planlaması
 

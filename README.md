@@ -11,7 +11,7 @@ Sadece kod yazmakla kalmıyor, fikir aşamasından ürüne giden yolculukta yön
 ### 1. Yoldayım (Start-up)
 *Kurucu & Full-Stack Geliştirici*
 
-**Yoldayım**, öğrenci taşımacılığı sektöründeki operasyonel verimsizliği çözmek amacıyla **Mart 2024'ten itibaren üzerinde çalıştığım** ve şu an **canlıda aktif** olan B2B odaklı kendi girişimimdir. Sadece kod yazmakla kalmadım; fikir aşamasından ticari faaliyete kadar olan tüm süreci yönetmiş bulunmaktayım.
+**Yoldayım**, öğrenci taşımacılığı sektöründeki operasyonel verimsizliği çözmek amacıyla **Mart 2024'ten itibaren üzerinde çalıştığım** ve şu an **canlıda aktif** olan B2B odaklı kendi girişimimdir. Sadece kod yazmakla kalmayıp fikir aşamasından ticari faaliyete kadar olan tüm süreci yönettim ve yönetmeye devam etmekteyim.
 
 **👨‍💻 Teknik Derinlik & Mimari:**
 - **RESTful API Tasarımı:** Node.js ve Express.js üzerinde, modüler ve ölçeklenebilir bir backend mimarisi kurguladım.

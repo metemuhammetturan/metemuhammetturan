@@ -6,25 +6,35 @@ Sadece kod yazmakla kalmıyor, fikir aşamasından ürüne giden yolculukta yön
 
 ---
 
-## Öne Çıkan Projeler
+## 🚀 Öne Çıkan Projeler
 
 ### 1. Yoldayım (Start-up)
 *Kurucu & Full-Stack Geliştirici*
 
-Kendi start-up girişimim olan **Yoldayım**'ın fikir aşamasından ürünleşme sürecine kadar olan tüm adımlarını bizzat yönettim.
-- **Backend:** Tamamen kendi geliştirdiğim mimari.
-- **Yönetim:** Pazarlama, iş geliştirme ve satış süreçlerinin aktif yönetimi.
-- **Durum:** Aktif, Büyüme Aşamasında.
+**Yoldayım**, öğrenci taşımacılığı sektöründeki operasyonel verimsizliği çözmek amacıyla **Mart 2024'ten itibaren üzerinde çalıştığım** ve şu an **canlıda aktif** olan B2B odaklı kendi girişimimdir. Sadece kod yazmakla kalmadım; fikir aşamasından ticari faaliyete kadar olan tüm süreci yönetmiş bulunmaktayım.
 
-### 2. Fintech - Ride Sharing App
+**👨‍💻 Teknik Derinlik & Mimari:**
+- **RESTful API Tasarımı:** Node.js ve Express.js üzerinde, modüler ve ölçeklenebilir bir backend mimarisi kurguladım.
+- **Veri Modelleme:** MongoDB üzerinde ilişkisel olmayan (NoSQL) veri yapılarını, karmaşık sorguları optimize edecek şekilde tasarladım.
+- **Entegrasyonlar:** Harita servisleri ve SMS/Bildirim altyapılarını sisteme entegre ederek gerçek zamanlı takip özelliklerini hayata geçirdim.
+
+**📈 Ürün Yönetimi & İş Geliştirme:**
+- **0'dan 1'e:** Fikir doğrulama, MVP kapsamının belirlenmesi ve canlıya çıkış süreçlerinin tamamını yönettim. Aktif olarak girişimimin yöneticiliğini ve sürekli geliştirmesini yapmaktayım.
+
+---
+
+### 2. Fintech & Ride Sharing Platformu
 *Backend Architect*
 
-Bir fintech - araç paylaşım girişimi için kapsamlı bir backend mimarisi inşa ettim.
-- **Fintech Mimarisi:** Klasik CRUD işlemlerinin ötesinde, karmaşık ödeme dağıtım mantıkları.
-- **Ödeme Sistemleri:** Payment modülleri, sağlayıcı entegrasyonları ve güvenli ödeme akışları.
-- **Güvenlik & Test:** Finansal işlem güvenliği ve kapsamlı test senaryoları.
+Ödeme sistemlerinin ve araç paylaşım mantığının iç içe geçtiği, yüksek güvenlik gerektiren hibrit bir proje. Burada odak noktam **veri tutarlılığı** ve **finansal işlem güvenliği** oldu.
 
-> ⚠️ *Projelerimin kaynak kodları private repository'lerdedir. Mimariyi ve kod kalitesini incelemek isterseniz lütfen benimle iletişime geçin.*
+**🛡️ Kritik Backend Çözümleri:**
+- **Cüzdan (Wallet) Mantığı & Ledger Sistemi:** Kullanıcı bakiyelerinin hatasız yönetilmesi için *Double-Entry Bookkeeping* (Çift Taraflı Kayıt) prensiplerine uygun bir veritabanı şeması tasarladım.
+- **Concurrency (Eşzamanlılık) Yönetimi:** Aynı anda gelen ödeme ve rezervasyon isteklerinde "Race Condition" oluşumunu engellemek için veritabanı seviyesinde kilitleme (locking) mekanizmaları ve atomik transaction'lar (ACID) kullandım.
+- **Dağıtık Ödeme Akışları:** Tek bir ödemenin komisyon kesintileri sonrası farklı hizmet sağlayıcılara (sürücü, platform vb.) otomatik dağıtılmasını sağlayan algoritmalar geliştirdim.
+- **Kuyruk Yönetimi (BullMQ):** Yoğun işlem saatlerinde sistemin tıkanmaması için asenkron işlemleri Redis tabanlı kuyruk yapısına taşıdım.
+
+> ⚠️ *Bu projelerin kaynak kodları, ticari gizlilik nedeniyle private repository'lerde tutulmaktadır. Mimari kararlarımı, kod standartlarımı ve kullandığım tasarım kalıplarını incelemek için iletişime geçiniz.*
 
 ---
 

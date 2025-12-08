@@ -1,6 +1,6 @@
 # Merhaba, ben Mete Muhammet Turan 
 
-> **Yazılım Geliştirici & Ürün Yöneticisi**
+> **Girişimci & Full-Stack Geliştirici**
 
 Sadece kod yazmakla kalmıyor, fikir aşamasından ürüne giden yolculukta yönetimsel süreçlerde de aktif rol oynuyorum. Teknik mimariyi iş geliştirme vizyonuyla birleştirerek ölçeklenebilir projeler üretiyorum.
 

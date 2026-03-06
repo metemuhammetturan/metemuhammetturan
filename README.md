@@ -8,7 +8,7 @@ I don’t just write code; I bridge the gap between complex technical architectu
 
 ## 🚀 Featured Products & Leadership
 
-### 1. Yoldayım (Founding Product Manager)
+### 1. Yoldayım (Founder)
 
 **Yoldayım** is a B2B marketplace I founded to solve operational inefficiencies in student transportation. It is currently live and operational on the App Store and Google Play.
 
@@ -16,14 +16,14 @@ I don’t just write code; I bridge the gap between complex technical architectu
 * **Technical Strategy:** Designed a scalable Node.js/Nest.js backend architecture to handle peak-load synchronization for real-time tracking.
 * **Growth & UX:** Iterated on user feedback to optimize checkout journeys and retention metrics using data-driven insights.
 
-### 2. Artific Agent (Team Lead & PM)
+### 2. Artific Agent (Development Team Lead & PM)
 
 An AI-driven platform where I lead the technical roadmap and cross-functional execution.
 
 * **Roadmap & Prioritization:** Leading a 3-person engineering team, prioritizing features based on business value and technical feasibility using Agile/Scrum.
 * **System Integrity:** Implementing high-standard development practices (SoC, Clean Code) and managing technical debt to ensure long-term product sustainability.
 
-### 3. Fintech Ride-Sharing Solution (Product Analyst)
+### 3. Fintech Ride-Sharing Solution (Co-Founder & Backend Developer)
 
 A high-security hybrid project integrating complex payment flows with marketplace dynamics.
 
